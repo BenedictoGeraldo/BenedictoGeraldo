@@ -19,23 +19,25 @@
 
 ## 🛠️ Tech Stack & Tools
 
+## 🛠️ Tech Stack & Tools
+
 <table>
   <tr>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
+      <br><strong>HTML</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
+      <br><strong>CSS</strong>
+    </td>
     <td align="center" width="150">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
       <br><strong>JavaScript</strong>
     </td>
     <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-      <br><strong>TypeScript</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
-      <br><strong>React.js</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next JS" />
-      <br><strong>Next.js</strong>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
+      <br><strong>Bootstrap</strong>
     </td>
     <td align="center" width="150">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
@@ -44,27 +46,38 @@
   </tr>
   <tr>
     <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
-      <br><strong>Node.js</strong>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+      <br><strong>PHP</strong>
     </td>
     <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express" />
-      <br><strong>Express.js</strong>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel" />
+      <br><strong>Laravel</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" />
+      <br><strong>Kotlin</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+      <br><strong>MySQL</strong>
     </td>
     <td align="center" width="150">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL" />
       <br><strong>PostgreSQL</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="150">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
       <br><strong>MongoDB</strong>
     </td>
     <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" />
-      <br><strong>Docker</strong>
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" />
+      <br><strong>Firebase</strong>
     </td>
   </tr>
 </table>
+
 
 <br>
 
