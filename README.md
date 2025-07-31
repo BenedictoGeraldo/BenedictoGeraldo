@@ -1,10 +1,9 @@
 
 <h1 align="center">Halo, saya Benedicto Geraldo 👋</h1>
-<h3 align="center">Seorang Fullstack Web Developer 🚀 dari Indonesia 🇮🇩</h3>
+<h3 align="center">Seorang Fullstack Web Developer 🚀👨‍💻</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/[NAMA_PENGGUNA_LINKEDIN]" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://[URL_WEBSITE_PORTOFOLIO_ANDA]" target="blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:[ALAMAT_EMAIL_ANDA]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
