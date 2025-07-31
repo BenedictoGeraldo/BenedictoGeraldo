@@ -3,15 +3,15 @@
 <h3 align="center">Seorang Fullstack Web Developer 🚀👨‍💻</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[NAMA_PENGGUNA_LINKEDIN]" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:[ALAMAT_EMAIL_ANDA]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/benedicto-geraldo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="geraldodawa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 <br>
 
 ## 👨‍💻 Tentang Saya
 
-- 🔭 Saat ini saya sedang fokus membangun **aplikasi web yang scalable** dan mudah dirawat.
+- 🔭 Saat ini saya sedang fokus mempelajari **bahasa pemrograman dan framework terbaru** seperti Next.Js dan Express.
 - 🌱 Saya terus belajar dan mendalami **Cloud Technologies (AWS/GCP)** dan **Arsitektur Microservices**.
 - 👯 Saya terbuka untuk berkolaborasi dalam **proyek open-source** yang menarik.
 
