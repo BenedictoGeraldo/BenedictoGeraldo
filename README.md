@@ -19,8 +19,6 @@
 
 ## 🛠️ Tech Stack & Tools
 
-## 🛠️ Tech Stack & Tools
-
 <table>
   <tr>
     <td align="center" width="150">
@@ -40,7 +38,7 @@
       <br><strong>Bootstrap</strong>
     </td>
     <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
       <br><strong>Tailwind CSS</strong>
     </td>
   </tr>
@@ -50,7 +48,7 @@
       <br><strong>PHP</strong>
     </td>
     <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" />
       <br><strong>Laravel</strong>
     </td>
     <td align="center" width="150">
@@ -77,7 +75,6 @@
     </td>
   </tr>
 </table>
-
 
 <br>
 
