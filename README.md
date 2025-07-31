@@ -13,7 +13,6 @@
 
 - 🔭 Saat ini saya sedang fokus membangun **aplikasi web yang scalable** dan mudah dirawat.
 - 🌱 Saya terus belajar dan mendalami **Cloud Technologies (AWS/GCP)** dan **Arsitektur Microservices**.
-- 💬 Tanya saya tentang: **React, Node.js, Express, SQL/NoSQL, atau apa pun seputar pengembangan web!**
 - 👯 Saya terbuka untuk berkolaborasi dalam **proyek open-source** yang menarik.
 
 <br>
