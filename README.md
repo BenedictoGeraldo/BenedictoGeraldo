@@ -81,7 +81,6 @@
 ## 📊 Statistik & Aktivitas GitHub Saya
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BenedictoGeraldo&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="Benedicto's GitHub Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenedictoGeraldo&layout=compact&langs_count=8&theme=merko" alt="Benedicto's Top Languages"/>
   <br/>
