@@ -12,7 +12,6 @@
 ## 👨‍💻 Tentang Saya
 
 - 🔭 Saat ini saya sedang fokus mempelajari **bahasa pemrograman dan framework terbaru** seperti Next.Js dan Express.
-- 🌱 Saya terus belajar dan mendalami **Cloud Technologies (AWS/GCP)** dan **Arsitektur Microservices**.
 - 👯 Saya terbuka untuk berkolaborasi dalam **proyek open-source** yang menarik.
 
 <br>
