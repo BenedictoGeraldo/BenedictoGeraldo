@@ -10,9 +10,7 @@
 <br>
 
 ## 👨‍💻 Tentang Saya
-
-- 🔭 Saat ini saya sedang fokus mempelajari **bahasa pemrograman dan framework terbaru** seperti Next.Js dan Express.
-- 👯 Saya terbuka untuk berkolaborasi dalam **proyek open-source** yang menarik.
+Mahasiswa biasa yang lagi ngurusin tugas akhir
 
 <br>
 
