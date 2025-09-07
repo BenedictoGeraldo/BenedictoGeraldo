@@ -1,6 +1,8 @@
 
-<h1 align="center">Halo, saya Benedicto Geraldo 👋</h1>
-<h3 align="center">Fullstack Web Developer 🚀👨‍💻</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Halo%2C+saya+Beneben;Fullstack+Web+Developer+🚀👨‍💻" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/benedicto-geraldo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
