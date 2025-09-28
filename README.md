@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Halo%2C+saya+Benedicto+Geraldo🚀👨‍💻)
+<p>Benedicto Geraldo</p>
 
 
 
