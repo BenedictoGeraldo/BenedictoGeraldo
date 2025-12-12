@@ -19,21 +19,7 @@
 
 ## 👨‍💻 Tentang Saya
 
-```javascript
-const benedicto = {
-  role: "Full Stack Developer",
-  status: "Final Year Student",
-  currentFocus: "Building scalable web applications",
-  interests: ["Web Development", "Mobile Development", "Cloud Computing"],
-  funFact: "I debug with console.log() 😄",
-};
-```
-
-- 🎓 Mahasiswa yang sedang menyelesaikan tugas akhir
-- 💼 Passionate tentang web & mobile development
-- 🌱 Sedang belajar **Next.js**, **NestJS**, dan **Docker**
-- 🎯 Goal: Menjadi Full Stack Developer yang handal
-- ⚡ Hobi: Coding, exploring new technologies, dan coffee ☕
+Mahasiswa biasa yang lagi ngurusin tugas akhir
 
 ---
 
@@ -111,20 +97,9 @@ const benedicto = {
 
 ---
 
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/benedicto-geraldo"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:geraldodawa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/BenedictoGeraldo"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"/></a>
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<p align="center">
-  ⭐️ From <a href="https://github.com/BenedictoGeraldo">BenedictoGeraldo</a> | Made with ❤️
-</p>
+
