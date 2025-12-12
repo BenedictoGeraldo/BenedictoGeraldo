@@ -21,11 +21,11 @@
 
 ```javascript
 const benedicto = {
-    role: "Full Stack Developer",
-    status: "Final Year Student",
-    currentFocus: "Building scalable web applications",
-    interests: ["Web Development", "Mobile Development", "Cloud Computing"],
-    funFact: "I debug with console.log() 😄"
+  role: "Full Stack Developer",
+  status: "Final Year Student",
+  currentFocus: "Building scalable web applications",
+  interests: ["Web Development", "Mobile Development", "Cloud Computing"],
+  funFact: "I debug with console.log() 😄",
 };
 ```
 
@@ -40,6 +40,7 @@ const benedicto = {
 ## 🚀 Tech Stack & Tools
 
 ### **Frontend**
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
@@ -51,6 +52,7 @@ const benedicto = {
 </p>
 
 ### **Backend**
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="45" height="45"/>
@@ -60,12 +62,14 @@ const benedicto = {
 </p>
 
 ### **Mobile**
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="45" height="45"/>
 </p>
 
 ### **Database**
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
@@ -74,6 +78,7 @@ const benedicto = {
 </p>
 
 ### **DevOps & Tools**
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
@@ -82,6 +87,7 @@ const benedicto = {
 </p>
 
 ### **Testing**
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt="Cypress" width="45" height="45"/>
 </p>
@@ -90,14 +96,18 @@ const benedicto = {
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BenedictoGeraldo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Benedicto's GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BenedictoGeraldo&theme=tokyonight&hide_border=true" alt="Benedicto's GitHub Streak"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BenedictoGeraldo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BenedictoGeraldo&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenedictoGeraldo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=BenedictoGeraldo&theme=radical&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenedictoGeraldo&theme=radical" alt="GitHub Contribution"/>
+</div>
 
 ---
 
