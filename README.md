@@ -1,87 +1,120 @@
-<p>Benedicto Geraldo</p>
-
-
+<h1 align="center">👋 Hi, I'm Benedicto Geraldo</h1>
+<h3 align="center">Full Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/benedicto-geraldo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="geraldodawa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+Learning+New+Things;Building+Cool+Projects" alt="Typing SVG" />
 </p>
 
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/benedicto-geraldo/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:geraldodawa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=BenedictoGeraldo&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
 
 ## 👨‍💻 Tentang Saya
-Mahasiswa biasa yang lagi ngurusin tugas akhir
 
-<br>
+```javascript
+const benedicto = {
+    role: "Full Stack Developer",
+    status: "Final Year Student",
+    currentFocus: "Building scalable web applications",
+    interests: ["Web Development", "Mobile Development", "Cloud Computing"],
+    funFact: "I debug with console.log() 😄"
+};
+```
 
-## 🛠️ Tech Stack & Tools
+- 🎓 Mahasiswa yang sedang menyelesaikan tugas akhir
+- 💼 Passionate tentang web & mobile development
+- 🌱 Sedang belajar **Next.js**, **NestJS**, dan **Docker**
+- 🎯 Goal: Menjadi Full Stack Developer yang handal
+- ⚡ Hobi: Coding, exploring new technologies, dan coffee ☕
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
-      <br><strong>HTML</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
-      <br><strong>CSS</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-      <br><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
-      <br><strong>Bootstrap</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
-      <br><strong>Tailwind CSS</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-      <br><strong>PHP</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" />
-      <br><strong>Laravel</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" />
-      <br><strong>Kotlin</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-      <br><strong>MySQL</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL" />
-      <br><strong>PostgreSQL</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
-      <br><strong>MongoDB</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" />
-      <br><strong>Firebase</strong>
-    </td>
-  </tr>
-</table>
+---
 
-<br>
+## 🚀 Tech Stack & Tools
 
-## 📊 Statistik & Aktivitas GitHub Saya
+### **Frontend**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/>
+</p>
+
+### **Backend**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="45" height="45"/>
+</p>
+
+### **Mobile**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="45" height="45"/>
+</p>
+
+### **Database**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/>
+</p>
+
+### **DevOps & Tools**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+</p>
+
+### **Testing**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt="Cypress" width="45" height="45"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenedictoGeraldo&layout=compact&langs_count=8&theme=merko" alt="Benedicto's Top Languages"/>
-  <br/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BenedictoGeraldo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Benedicto's GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BenedictoGeraldo&theme=tokyonight&hide_border=true" alt="Benedicto's GitHub Streak"/>
+</p>
 
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenedictoGeraldo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenedictoGeraldo&theme=merko" alt="Benedicto's GitHub Streak"/>
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/benedicto-geraldo"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:geraldodawa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/BenedictoGeraldo"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/BenedictoGeraldo">BenedictoGeraldo</a> | Made with ❤️
 </p>
