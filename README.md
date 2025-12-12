@@ -97,12 +97,12 @@ const benedicto = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BenedictoGeraldo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BenedictoGeraldo&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BenedictoGeraldo&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BenedictoGeraldo&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BenedictoGeraldo&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenedictoGeraldo&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
