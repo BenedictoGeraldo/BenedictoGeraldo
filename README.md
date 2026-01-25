@@ -1,3 +1,4 @@
 Mahasiswa biasa yang lagi ngurusin tugas akhir
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benedictogeraldo&" alt="benedictogeraldo" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=benedictogeraldo&show_icons=true&theme=default" />
+
